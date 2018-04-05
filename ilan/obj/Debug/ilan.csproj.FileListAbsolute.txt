@@ -1,0 +1,10 @@
+c:\users\p106\source\repos\ilan\ilan\bin\Debug\ilan.exe.config
+c:\users\p106\source\repos\ilan\ilan\bin\Debug\ilan.exe
+c:\users\p106\source\repos\ilan\ilan\bin\Debug\ilan.pdb
+c:\users\p106\source\repos\ilan\ilan\obj\Debug\ilan.csprojResolveAssemblyReference.cache
+c:\users\p106\source\repos\ilan\ilan\obj\Debug\ilan.Form1.resources
+c:\users\p106\source\repos\ilan\ilan\obj\Debug\ilan.Properties.Resources.resources
+c:\users\p106\source\repos\ilan\ilan\obj\Debug\ilan.csproj.GenerateResource.Cache
+c:\users\p106\source\repos\ilan\ilan\obj\Debug\ilan.csproj.CoreCompileInputs.cache
+c:\users\p106\source\repos\ilan\ilan\obj\Debug\ilan.exe
+c:\users\p106\source\repos\ilan\ilan\obj\Debug\ilan.pdb
