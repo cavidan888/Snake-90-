@@ -32,60 +32,71 @@
             this.uP = new System.Windows.Forms.Button();
             this.Right = new System.Windows.Forms.Button();
             this.Left = new System.Windows.Forms.Button();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // Down
             // 
-            this.Down.Location = new System.Drawing.Point(629, 395);
+            this.Down.Location = new System.Drawing.Point(617, 289);
             this.Down.Name = "Down";
             this.Down.Size = new System.Drawing.Size(59, 23);
             this.Down.TabIndex = 1;
             this.Down.Text = "Down";
             this.Down.UseVisualStyleBackColor = true;
-            this.Down.Click += new System.EventHandler(this.Down_Click_1);
+          
             // 
             // uP
             // 
-            this.uP.Location = new System.Drawing.Point(630, 337);
+            this.uP.Location = new System.Drawing.Point(618, 231);
             this.uP.Name = "uP";
             this.uP.Size = new System.Drawing.Size(59, 23);
             this.uP.TabIndex = 2;
             this.uP.Text = "Yuxari";
             this.uP.UseVisualStyleBackColor = true;
-            this.uP.Click += new System.EventHandler(this.uP_Click_1);
+          
             // 
             // Right
             // 
-            this.Right.Location = new System.Drawing.Point(697, 366);
+            this.Right.Location = new System.Drawing.Point(685, 261);
             this.Right.Name = "Right";
             this.Right.Size = new System.Drawing.Size(59, 23);
             this.Right.TabIndex = 3;
             this.Right.Text = "Sag";
             this.Right.UseVisualStyleBackColor = true;
-            this.Right.Click += new System.EventHandler(this.Right_Click);
+
             // 
             // Left
             // 
-            this.Left.Location = new System.Drawing.Point(561, 366);
+            this.Left.Location = new System.Drawing.Point(549, 260);
             this.Left.Name = "Left";
             this.Left.Size = new System.Drawing.Size(59, 23);
             this.Left.TabIndex = 4;
             this.Left.Text = "Sol";
             this.Left.UseVisualStyleBackColor = true;
-            this.Left.Click += new System.EventHandler(this.Left_Click);
+       
+            // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.Down);
+            this.panel1.Controls.Add(this.Right);
+            this.panel1.Controls.Add(this.Left);
+            this.panel1.Controls.Add(this.uP);
+            this.panel1.Location = new System.Drawing.Point(172, 85);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(771, 349);
+            this.panel1.TabIndex = 5;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(765, 425);
-            this.Controls.Add(this.Down);
-            this.Controls.Add(this.uP);
-            this.Controls.Add(this.Right);
-            this.Controls.Add(this.Left);
+            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.ClientSize = new System.Drawing.Size(1105, 514);
+            this.Controls.Add(this.panel1);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -96,6 +107,7 @@
         private System.Windows.Forms.Button uP;
         private System.Windows.Forms.Button Right;
         private System.Windows.Forms.Button Left;
+        private System.Windows.Forms.Panel panel1;
     }
 }
 

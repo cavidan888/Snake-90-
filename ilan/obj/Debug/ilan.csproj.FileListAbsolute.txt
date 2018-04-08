@@ -8,3 +8,13 @@ c:\users\p106\source\repos\ilan\ilan\obj\Debug\ilan.csproj.GenerateResource.Cach
 c:\users\p106\source\repos\ilan\ilan\obj\Debug\ilan.csproj.CoreCompileInputs.cache
 c:\users\p106\source\repos\ilan\ilan\obj\Debug\ilan.exe
 c:\users\p106\source\repos\ilan\ilan\obj\Debug\ilan.pdb
+C:\Users\user\Desktop\ilan\ilan\bin\Debug\ilan.exe.config
+C:\Users\user\Desktop\ilan\ilan\bin\Debug\ilan.exe
+C:\Users\user\Desktop\ilan\ilan\bin\Debug\ilan.pdb
+C:\Users\user\Desktop\ilan\ilan\obj\Debug\ilan.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ilan\ilan\obj\Debug\ilan.Form1.resources
+C:\Users\user\Desktop\ilan\ilan\obj\Debug\ilan.Properties.Resources.resources
+C:\Users\user\Desktop\ilan\ilan\obj\Debug\ilan.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ilan\ilan\obj\Debug\ilan.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ilan\ilan\obj\Debug\ilan.exe
+C:\Users\user\Desktop\ilan\ilan\obj\Debug\ilan.pdb
